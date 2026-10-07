@@ -1,0 +1,4 @@
+source: https://github.com/python/peps
+commit: 730372f74cd1c200170478fb91a9b3f07a737acd
+filter: Topic header contains "Typing"
+fetched: 2026-10-07
