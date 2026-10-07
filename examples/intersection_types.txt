@@ -1,0 +1,3 @@
+Add intersection types, written A & B, meaning a value that satisfies both
+A and B. The main use is typing an object as implementing two protocols at
+once without declaring a third class.

@@ -1,0 +1,1 @@
+Add a Const qualifier so that a module level variable cannot be reassigned.

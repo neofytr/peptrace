@@ -1,0 +1,3 @@
+I want to propose a decorator, @typeguard(T), that marks a function as
+narrowing its first argument to T, instead of using a TypeGuard return
+annotation. It reads better and keeps the signature honest.

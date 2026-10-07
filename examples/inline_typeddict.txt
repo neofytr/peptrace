@@ -1,0 +1,2 @@
+Let me write a typed dict literal like {"a": int, "b": str} directly in an
+annotation instead of declaring a TypedDict class for a one-off shape.

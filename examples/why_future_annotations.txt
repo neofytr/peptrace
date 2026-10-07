@@ -1,0 +1,3 @@
+Why do I need `from __future__ import annotations` to reference a class in
+its own method signature, and why are annotations sometimes strings at
+runtime? This seems arbitrary.

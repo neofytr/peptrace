@@ -1,0 +1,3 @@
+Generic classes should be declared with angle brackets like class Foo<T>:
+instead of square brackets. Every other language does it that way and it
+would be less confusing for people coming from Java or TypeScript.

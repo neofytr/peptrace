@@ -1,0 +1,3 @@
+Callable type syntax like (int, str) -> bool instead of
+Callable[[int, str], bool]. The current spelling is unreadable once there
+are more than two arguments.
